@@ -1,18 +1,22 @@
 # EU-US
 
-description
+## description
 
 Repository to share the code used in the scientific article Jansen et al. TITLE. Nat Commun 15, 3724 (2024). https://doi.org/..... The repository contains data files and tailored notebooks to reproduce the results presented in the article.
 
 The data folder includes:
 
-x x x
+x 
+x 
+x
 
 The notebooks folder includes:
 
-x x x
+x 
+x 
+x
 
-usage
+## usage
 
 To ensure the replication of the results presented in the article, it is highly recommended starting a new environment and installing the requirements.txt. To do this, run the following lines of code:
 
