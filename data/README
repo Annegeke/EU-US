@@ -1,0 +1,17 @@
+# Data stored in this folder
+
+Interim
+    Missing_UNDP_EU allows to see how much data is missing for UNDP indicators
+    Missing_WHR_EU allows to see how much data is missing for WHR indicators
+
+Processed
+    EU_UNDP_estimated is EU weighted averages, with missing data estimated using neighboring countries
+    EU_UNDP_basic is the EU population weighted average without estimating missing data. Allowed me to sense-check how it relates to the EU aggregate where missing data is estimated using data from neighboring countries. Differences are really small, in line with what's expected given that not much data was missing. 
+    EU_WHR_estimated is EU weighted averages, with missing data estimated using neighboring countries 
+    EU_WHR_basic TO DO
+    INDEX_EU_US contains data for HDI, Life satisfaction (LS from WHR) and GDP per capita (from WID) where US is considered 100. 
+    INDEX_WID_GDP can be deleted 
+
+
+
+Raw
